@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ofahyiech.anuragkhandelwal.com/sitemap.xml
